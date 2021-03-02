@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Devcoons.Common.Networking</id>
+    <version>0.1.0</version>
+    <authors>Io. D</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE.md</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>Package Description</description>
+    <copyright>Io. D (Devcoons Blog www.devcoons.com)</copyright>
+    <repository url="https://github.com/devcoons/common.networking" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ioadel\Desktop\common.networking\bin\Release\netstandard2.0\Devcoons.Common.Networking.dll" target="lib\netstandard2.0\Devcoons.Common.Networking.dll" />
+    <file src="C:\Users\ioadel\Desktop\common.networking\LICENSE.md" target="LICENSE.md" />
+  </files>
+</package>

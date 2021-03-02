@@ -184,13 +184,13 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ioadel\\source\\repos\\Devcoons.Common.Networking\\Devcoons.Common.Networking.csproj",
+      "projectUniqueName": "C:\\Users\\ioadel\\Desktop\\common.networking\\Devcoons.Common.Networking.csproj",
       "projectName": "Devcoons.Common.Networking",
-      "projectPath": "C:\\Users\\ioadel\\source\\repos\\Devcoons.Common.Networking\\Devcoons.Common.Networking.csproj",
+      "projectPath": "C:\\Users\\ioadel\\Desktop\\common.networking\\Devcoons.Common.Networking.csproj",
       "packagesPath": "C:\\Users\\ioadel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ioadel\\source\\repos\\Devcoons.Common.Networking\\obj\\",
+      "outputPath": "C:\\Users\\ioadel\\Desktop\\common.networking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
