@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ioadel\\Desktop\\common.networking\\Devcoons.Common.Networking.csproj": {}
+    "C:\\Users\\ioadel\\Desktop\\Devcoons\\common.networking\\Devcoons.Common.Networking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ioadel\\Desktop\\common.networking\\Devcoons.Common.Networking.csproj": {
-      "version": "0.1.1",
+    "C:\\Users\\ioadel\\Desktop\\Devcoons\\common.networking\\Devcoons.Common.Networking.csproj": {
+      "version": "0.1.2",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ioadel\\Desktop\\common.networking\\Devcoons.Common.Networking.csproj",
+        "projectUniqueName": "C:\\Users\\ioadel\\Desktop\\Devcoons\\common.networking\\Devcoons.Common.Networking.csproj",
         "projectName": "Devcoons.Common.Networking",
-        "projectPath": "C:\\Users\\ioadel\\Desktop\\common.networking\\Devcoons.Common.Networking.csproj",
+        "projectPath": "C:\\Users\\ioadel\\Desktop\\Devcoons\\common.networking\\Devcoons.Common.Networking.csproj",
         "packagesPath": "C:\\Users\\ioadel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ioadel\\Desktop\\common.networking\\obj\\",
+        "outputPath": "C:\\Users\\ioadel\\Desktop\\Devcoons\\common.networking\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\ioadel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -62,7 +64,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

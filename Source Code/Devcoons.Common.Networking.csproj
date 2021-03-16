@@ -4,11 +4,13 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Io. D</Authors>
     <Company>Devcoons Blog</Company>
-    <Version>0.1.1</Version>
+    <Version>0.1.2</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <RepositoryUrl>https://github.com/devcoons/common.networking</RepositoryUrl>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
     <Copyright>Io. D (Devcoons Blog www.devcoons.com)</Copyright>
+    <AssemblyVersion>0.1.2.0</AssemblyVersion>
+    <FileVersion>0.1.2.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
